@@ -1,6 +1,3 @@
-# 42-Evaluations
-How the 42 Projects are graded
-
 # Coming Soon
 
 MiniTalk
