@@ -1,13 +1,19 @@
 # Coming Soon
 
-So_Long (Bonus Coming Soon)
+- So_Long (Bonus Coming Soon), FdF and Fract-ol
 
-FdF
+- Minishell
 
-Fract-ol
+- NetPractice
 
-Minishell
+- C++ Modules 01 to 08
 
-NetPractice
+- Cub3D and MiniRT
 
-C++ Modules 01 to 08
+- Inception
+
+- Ft_Containers
+
+- Webserv and Ft_irc
+
+- Ft_Transcendence
