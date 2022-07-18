@@ -4,8 +4,6 @@
 
 - Minishell
 
-- NetPractice
-
 - C++ Modules 01 to 08
 
 - Cub3D and MiniRT
