@@ -4,7 +4,7 @@
 
 - Minishell
 
-- C++ Modules 01 to 08
+- C++ Modules 01, 02, 04, 05, 06,07 and 08
 
 - Cub3D and MiniRT
 
